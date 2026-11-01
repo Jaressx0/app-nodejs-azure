@@ -1,0 +1,16 @@
+{
+  "name": "app-nodejs-azure",
+  "version": "1.0.0",
+  "description": "Practica Azure App Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

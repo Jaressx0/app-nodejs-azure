@@ -12,7 +12,7 @@ const CADENA_CONEXION =
 app.get("/", (req, res) => {
   res.send(`
     <h1>${NOMBRE_APP}</h1>
-    <p>Corriendo en Azure App Service</p>
+    <p>Aplicacion actualizada automaticamente con GitHub Actions</p>
   `);
 });
 
